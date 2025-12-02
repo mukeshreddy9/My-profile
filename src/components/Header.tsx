@@ -12,7 +12,7 @@ const Header: React.FC = () => {
     <div className="flex items-center gap-3 min-w-fit">
       <div className="min-w-0">
         <div className="text-[10px] sm:text-sm md:text-base font-bold leading-tight truncate whitespace-nowrap">
-          Mukesh Reddy Theddu — Full Stack Developer & ERP Specialist
+          Theddu Mukesh Reddy 
         </div>
       </div>
     </div>

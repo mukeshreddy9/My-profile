@@ -27,7 +27,7 @@ export default function NeverBeforeEverAfterUI() {
           <div className="flex items-center gap-3 min-w-0">
             <div className="w-10 h-10 flex-shrink-0 rounded-full bg-gradient-to-br from-purple-500 to-cyan-400 flex items-center justify-center text-black font-bold">MR</div>
             <div className="leading-tight min-w-0">
-              <div className="text-sm font-medium tracking-wide truncate">Mukesh Reddy Theddu</div>
+              <div className="text-sm font-medium tracking-wide truncate">Theddu Mukesh Reddy</div>
               <div className="text-xs text-slate-300 truncate">Full Stack Developer & ERP Specialist</div>
             </div>
           </div>
